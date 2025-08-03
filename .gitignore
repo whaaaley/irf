@@ -1,0 +1,5 @@
+.secrets/
+.trash/
+dist/
+.env
+irf.code-workspace
