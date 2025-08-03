@@ -1,5 +1,6 @@
 .secrets/
 .trash/
 dist/
+fixtures/onclick/
 .env
 irf.code-workspace
