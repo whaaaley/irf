@@ -29,6 +29,7 @@ Example format:
 date: July 26, 2025
 scope: src/components/
 request: Check components for naming conventions
+model: kimi-k2-0711-preview
 ---
 
 ### 🔴 CRITICAL - Breaking Changes Required
