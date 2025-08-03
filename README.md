@@ -177,6 +177,8 @@ Files that are already well-structured may see slight increases (10-15%) as the 
 - [ ] **CLI Tool** - Create a command-line interface for easier single-file processing
 - [ ] **MCP Tool** - Implement as a Model Context Protocol tool for integration with AI assistants
 - [ ] **Rule Merging** - Combine similar rules to reduce redundancy
+- [ ] **Combine Similar Rules** - Ability to combine similar rules into one rule
+- [ ] **Split Rules** - Ability to split a single rule up into multiple rules
 - [ ] **Confidence Scoring** - Add confidence scores to parsed rule components
 - [ ] **Deontic Ordering** - Sort rules by deontic strength (Obligatory → Forbidden → Permissible → Optional → Supererogatory → Indifferent → Omissible)
 
