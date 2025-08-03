@@ -8,6 +8,7 @@ const config = {
     provider: 'openai.gpt-4o-mini',
     options: {
       temperature: 0,
+      seed: Date.now(),
       openAIApiKey: env.OPENAI_API_KEY,
     },
   },
